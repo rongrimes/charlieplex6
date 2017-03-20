@@ -1,7 +1,9 @@
 # charlieplex6
 charlieplexing with two 3-segment led arrays and a Raspberry Pi.
 
-Documentation and image are... imminent.
+![charlieplex6.jpg](https://github.com/rongrimes/charlieplex6/blob/master/images/Charlieplex6-9907.jpg)
 
-Ron
+Documentation is... imminent.
+
+Ron  
 March 19, 2017
