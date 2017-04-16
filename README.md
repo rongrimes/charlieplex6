@@ -23,7 +23,7 @@ The Raspberry Pi is mounted on the "official" touchscreen (which is not being us
 
 ## Code
 
-Documentation is... imminent.
+Further documentation is... imminent.
 
 Ron  
 April 16, 2017
