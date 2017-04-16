@@ -10,12 +10,11 @@ The experiment was to see how quickly I could charlieplex 2 x 3-led bar displays
 
 ## The Board - All
 
-![charlieplex6-9907.jpg](https://github.com/rongrimes/charlieplex6/blob/master/images/charlieplex6-9907.jpg)
+![Charlieplex6-9907.jpg](https://github.com/rongrimes/charlieplex6/blob/master/images/Charlieplex6-9907.jpg)
 
 ## Fritzing - Breadboard
 
 ![charlieplexing6-3_bb.png](https://github.com/rongrimes/charlieplex6/blob/master/images/charlieplexing6-3_bb.png)
-https://github.com/rongrimes/charlieplex6/blob/master/images/charlieplexing6-3_bb.png
 
 ## Fritzing - Schematic
 
