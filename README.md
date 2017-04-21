@@ -18,7 +18,7 @@ The Raspberry Pi is mounted on the "official" touchscreen (which is not being us
   * MU04-4101 Yellow-Green
 * 3 x 220 ohm resistors
 
-The MU04 units are now obsolete and there's not even a Fritzing image for it. I replaced the LED bar with 3 discrete LEDs in the Breadboard image.
+The MU04 units are now obsolete and there's not even a Fritzing image for any of them. I replaced the LED bar with 3 discrete LEDs in the Breadboard image.
 
 &nbsp;  
 
@@ -38,9 +38,15 @@ Original diagram inspiration:
 
 ## Code
 
-Further documentation is... imminent.
+Original code inspiration: [Github: raspberrypi_cookbook_ed2/charlieplexing.py](https://github.com/simonmonk/raspberrypi_cookbook_ed2/blob/master/charlieplexing.py) by Simon Monk  
+
+Development from SM's code:
+  * Constants used in the _pin_led_states_ table. This makes it more clear that the pins are tri-state with values: HI, LO, and INput mode.
+  * Converted to Python3
+  * Wrapup code added to respond gracefully to Ctl-C or a kill signal.
+  * LED display closed down before program termination with the _clear_pins_ function
 
 Ron  
-April 16, 2017
+April 20, 2017
 
 
